@@ -40,12 +40,12 @@ src/              # Application source code
 ### Screenshots
 Screenshots are stored in `screenshots/`:
 
-![Home page](screenshots/Home%20page.jpg)
-![Create Task](screenshots/Create%20Task.jpg)
-![Edit Task](screenshots/Edit%20Task.jpg)
-![Delete](screenshots/Delete.jpg)
-![Execution](screenshots/Execution.jpg)
-![Malicious](screenshots/Malicious.jpg)
+![Home page](Screenshots/Home page.jpg)
+![Create Task](Screenshots/Create Task.jpg)
+![Edit Task](Screenshots/Edit Task.jpg)
+![Delete](Screenshots/Delete.jpg)
+![Execution](Screenshots/Execution.jpg)
+![Malicious](Screenshots/Malicious.jpg)
 
 ### Scripts
 - `npm run dev`: start development server
