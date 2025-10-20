@@ -1,0 +1,15 @@
+{
+  "short_name": "Task Runner",
+  "name": "Task Runner Frontend",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1890ff",
+  "background_color": "#ffffff"
+}
